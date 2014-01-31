@@ -1,0 +1,4 @@
+Test Asciidoc
+=============
+
+*[red]##c##[green]##o##[purple]##l##[fuchsia]##o##[blue]##r##*
